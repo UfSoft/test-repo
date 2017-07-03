@@ -3,12 +3,12 @@
 
 from __future__ import absolute_import, with_statement
 import os
-import re
+import re #bah
 import sys
 import codecs
 from setuptools import setup, find_packages
 
-1/0
+0/1
 
 # Change to source's directory prior to running any command
 try:
