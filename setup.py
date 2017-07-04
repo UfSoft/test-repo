@@ -7,8 +7,6 @@ import sys
 import codecs
 from setuptools import setup, find_packages
 
-0/1
-
 # Change to source's directory prior to running any command
 try:
     SETUP_DIRNAME = os.path.dirname(__file__)

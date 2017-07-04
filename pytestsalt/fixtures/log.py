@@ -46,7 +46,7 @@ def log_server(salt_log_port):
     server.shutdown()
 
 
-class ThreadingMixIn(socketserver.ThreadingMixIn):
+class ThreadingMixIn(socketserver.ThreadingMixIn):  # pylint: disable=no-init
     daemon_threads = True
 
 
