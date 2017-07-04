@@ -3,7 +3,6 @@
 
 from __future__ import absolute_import, with_statement
 import os
-import re #bah
 import sys
 import codecs
 from setuptools import setup, find_packages
