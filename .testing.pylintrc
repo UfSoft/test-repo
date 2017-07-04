@@ -22,7 +22,6 @@ persistent=no
 load-plugins=saltpylint.pep8,
   saltpylint.pep263,
   saltpylint.strings,
-  saltpylint.fileperms,
   saltpylint.smartup,
 
 # Use multiple processes to speed up Pylint.
